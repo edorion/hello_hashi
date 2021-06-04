@@ -1,2 +1,2 @@
 #!/bin/zsh
-echo "hello Hashicorp"
+echo "hello Hashicorp Australia"
