@@ -1,2 +1,2 @@
 #!/bin/zsh
-echo "hello world"
+echo "hello Hashicorp"
