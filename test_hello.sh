@@ -3,7 +3,7 @@
 out=$(bash hello.sh)
 
 # we should check out == hello
-if [ "${out}" == "hello" ];then
+if [ "${out}" == "hello Hashicorp Australia" ];then
   echo "GOOD: test pass"
 else
   echo "BAD: test fail"
