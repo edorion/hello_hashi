@@ -1,3 +1,5 @@
 language: bash
 
-script: chmod u+x hello.sh
+script: 
+- chmod u+x hello.sh test_hello.sh
+- bash test_hello.sh
